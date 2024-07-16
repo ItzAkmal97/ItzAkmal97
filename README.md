@@ -3,6 +3,5 @@
 - 🌱 I’m currently learning Reactjs, Nextjs
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me - send me an email @muhammadakmal441@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can't center a div. 
 
